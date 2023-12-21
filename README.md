@@ -1,4 +1,4 @@
-![logo]([https://github.com/rammodi369/rammodi369/blob/master/IMG_20220708_184326.jpg](https://github.com/rammodi369/rammodi369/blob/master/image2.jpg))
+![logo](https://github.com/rammodi369/rammodi369/blob/master/image2.jpg)
 <h1 align="center">Hi 👋, I'm Ram Modi</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 <img align="right" alt="image" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" />
